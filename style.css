@@ -1,0 +1,11 @@
+.youtube-search-container{
+  padding:20px;
+  width:350px;
+  margin:auto;
+}
+#youtubeSearchInput{
+  width:280px;
+}
+#youtubeSearchButton{
+  width:50px
+}
